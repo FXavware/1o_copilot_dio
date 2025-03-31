@@ -7,6 +7,7 @@ Foi explicado e foi feito na prática, no Copilot Studio:
 - A criação de um Copilot em branco, sem o uso das opções acima, para a posterior configuração
 
 Desafio - Criar um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
+
 Foi explicado e foi feito na prática, no Copilot Studio, como:
 - Criar um Copilot com um fluxo de conversa personalizado no Microsoft Copilot Studio. 
 - Iniciar um copiloto do zero
