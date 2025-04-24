@@ -7,7 +7,6 @@ Foi explicado e foi feito na prática, no Copilot Studio:
 - A criação de um Copilot em branco, sem o uso das opções acima, para a posterior configuração
 
 Desafio - Criar um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
-
 Foi explicado e foi feito na prática, no Copilot Studio, como:
 - Criar um Copilot com um fluxo de conversa personalizado no Microsoft Copilot Studio. 
 - Iniciar um copiloto do zero
@@ -15,3 +14,22 @@ Foi explicado e foi feito na prática, no Copilot Studio, como:
 - Personalizar mensagens de erro 
 - Ajustar a qualidade das respostas utilizando GenAI
 Criando um copiloto otimizado para oferecer interações mais precisas e eficientes
+
+Desafio de projeto - Azure OpenAI no PlayGround
+
+Objetivos:
+- Aprender a como dar deploy num recurso de Azure OpenAI
+- Entender sobre como o Azure OpenAI Playground Funciona para multimodalidade
+- Aprender sobre configurações do Chat
+- Como integrar Blobs e outras informações prévias
+
+Conteúdos:
+- Deploy
+- O que é o Playground?
+- Recursos do Playground
+- Tokenização
+- System Message
+- Temperatura vs. Top-P
+- Frequency Penalty vs. Presence Penalty
+- Multimodalidade
+- Explorando o Playground
