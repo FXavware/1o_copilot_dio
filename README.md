@@ -18,7 +18,7 @@ Foi explicado e foi feito na prática, no Copilot Studio, como:
 - Ajustar a qualidade das respostas utilizando GenAI
 Criando um copiloto otimizado para oferecer interações mais precisas e eficientes
 
-
+-------------------------------------------------------------------------------------
 Desafio de projeto - Azure OpenAI no PlayGround
 
 Objetivos:
@@ -38,7 +38,7 @@ Conteúdos:
 - Multimodalidade
 - Explorando o Playground
 
-
+-------------------------------------------------------------------------
 Desafio - Aplicação de Chats e Configurações API
 
 Objetivo:
@@ -49,3 +49,19 @@ Conteúdos:
 - Chamadas de API necessárias para usar em aplicações
 - API do Azure OpenAI
 - Base do Semantic Kernel e IA de Agentes
+
+
+--------------------------------------------------------------------
+Desafio de projeto
+Criando um Podcast com IAs Generativas
+Por que criar um podcast?.pdf
+Definição de um grupo.pdf
+O que é prompt Engineering.pdf
+Como escrever prompts melhores.pdf
+Conceitos avançados de prompt.pdf
+Criando um titulo poderoso.pdf
+Imagem de capa e dicas de midjourney.pdf
+Criando um roteiro com variáveis.pdf
+Gerando o audio com Eleven Labs.pdf
+Editando seu podcast de maneira fácil.pdf
+Como entregar meu projeto e dicas de onde publicar.pdf
