@@ -52,16 +52,15 @@ Conteúdos:
 
 
 --------------------------------------------------------------------
-Desafio de projeto
-Criando um Podcast com IAs Generativas
-Por que criar um podcast?.pdf
-Definição de um grupo.pdf
-O que é prompt Engineering.pdf
-Como escrever prompts melhores.pdf
-Conceitos avançados de prompt.pdf
-Criando um titulo poderoso.pdf
-Imagem de capa e dicas de midjourney.pdf
-Criando um roteiro com variáveis.pdf
-Gerando o audio com Eleven Labs.pdf
-Editando seu podcast de maneira fácil.pdf
-Como entregar meu projeto e dicas de onde publicar.pdf
+Desafio de projeto - Criando um Podcast com IAs Generativas
+- Por que criar um podcast
+- Definição de um grupo
+- O que é prompt Engineering
+- Como escrever prompts melhores
+- Conceitos avançados de prompt
+- Criando um titulo poderoso
+- Imagem de capa e dicas de midjourney
+- Criando um roteiro com variáveis
+- Gerando o audio com Eleven Labs
+- Editando seu podcast de maneira fácil
+- Como entregar meu projeto e dicas de onde publicar
